@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-requiresafe",
+  "version": "1.0.0",
+  "description": "eslint configuration used in requireSafe projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no tests\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/requiresafe/eslint-config-requiresafe.git"
+  },
+  "keywords": [
+    "eslint",
+    "requiresafe"
+  ],
+  "author": "Nathan LaFreniere <quitlahok@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/requiresafe/eslint-config-requiresafe/issues"
+  },
+  "homepage": "https://github.com/requiresafe/eslint-config-requiresafe#readme",
+  "dependencies": {
+    "eslint-config-hapi": "^3.0.2",
+    "eslint-plugin-hapi": "^1.2.1"
+  }
+}
