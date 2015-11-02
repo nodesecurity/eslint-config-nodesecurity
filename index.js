@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['eslint-config-requiresafe/es5'],
+  extends: ['nodesecurity/es5'],
   rules: {
     "no-var": 2,
     "arrow-parens": 2,
