@@ -1,25 +1,26 @@
 {
-  "name": "eslint-config-requiresafe",
+  "name": "eslint-config-nodesecurity",
   "version": "1.0.0",
-  "description": "eslint configuration used in requireSafe projects",
+  "description": "eslint configuration used in nodesecurity projects",
   "main": "index.js",
   "scripts": {
     "test": "echo \"no tests\""
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/requiresafe/eslint-config-requiresafe.git"
+    "url": "git://github.com/requiresafe/eslint-config-nodesecurity.git"
   },
   "keywords": [
     "eslint",
-    "requiresafe"
+    "nodesecurity",
+    "nsp"
   ],
   "author": "Nathan LaFreniere <quitlahok@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/requiresafe/eslint-config-requiresafe/issues"
+    "url": "https://github.com/requiresafe/eslint-config-nodesecurity/issues"
   },
-  "homepage": "https://github.com/requiresafe/eslint-config-requiresafe#readme",
+  "homepage": "https://github.com/requiresafe/eslint-config-nodesecurity#readme",
   "dependencies": {
     "eslint-config-hapi": "^3.0.2",
     "eslint-plugin-hapi": "^1.2.1"
