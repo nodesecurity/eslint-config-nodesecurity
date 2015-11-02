@@ -1,3 +1,3 @@
-## eslint-config-requiresafe
+## eslint-config-nodesecurity
 
-This is the base set of eslint rules for all requireSafe projects
+This is the base set of eslint rules for all nodesecurity projects
