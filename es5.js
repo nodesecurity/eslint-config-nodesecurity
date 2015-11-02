@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['eslint-config-hapi'],
+  extends: ['hapi'],
   rules: {
     "indent": [2, 2],
     "strict": [2, "global"]
