@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/requiresafe/eslint-config-nodesecurity#readme",
   "dependencies": {
-    "eslint-config-hapi": "^3.0.2",
-    "eslint-plugin-hapi": "^1.2.1"
+    "eslint-plugin-hapi": "^2.0.0"
   }
 }
