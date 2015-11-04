@@ -8,7 +8,7 @@ module.exports = {
   rules: {
     'hapi/hapi-capitalize-modules': [1, 'global-scope-only'],
     'hapi/hapi-scope-start': 1,
-    'hapi/no-shadow-relaxed': [1, { ignore: ['err', 'done'] }],
+    'no-shadow': [1, { 'allow': ['err', 'done'] }],
 
     'array-bracket-spacing': 1,
     'brace-style': [1, 'stroustrup'],
@@ -45,7 +45,6 @@ module.exports = {
     'no-redeclare': 1,
     'no-regex-spaces': 0,
     'no-return-assign': 2,
-    'no-shadow': 0,
     'no-spaced-func': 2,
     'no-sparse-arrays': 2,
     'no-trailing-spaces': 1,
